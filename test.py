@@ -22,3 +22,17 @@ print(len(set))
 print("test for i in range(-1):")
 for i in range(-1):
     print(i)
+
+
+
+
+
+mylist =[1,2,3]
+mylist.insert(0,1)
+print(mylist) 
+
+
+mystring = ""
+
+if mystring:
+    print("aaa")
