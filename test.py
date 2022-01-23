@@ -36,3 +36,16 @@ mystring = ""
 
 if mystring:
     print("aaa")
+
+print("aaa")
+mylist =[-10, -3, 0, 5, 9]
+print(mylist[:2])
+print(mylist[2+1:])
+
+
+print("test")
+list1 = [6,3,4]
+list2 = [1,2,3]
+list3 = (list1+list2) +[1]
+
+print(list3)
