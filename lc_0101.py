@@ -27,7 +27,7 @@ class Solution(object):
         
         return (self.isSameTree( p.left, q.left) and self.isSameTree( p.right, q.right))
 
-    def isSymmetric(self, root):
+    def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         """
         :type root: TreeNode
         :rtype: bool
