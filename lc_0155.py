@@ -34,7 +34,6 @@ class MinStack:
 # param_3 = obj.top()
 # param_4 = obj.getMin()
 
-
 minStack = MinStack()
 print(minStack.push(0));
 print(minStack.push(1));
